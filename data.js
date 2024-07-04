@@ -149,16 +149,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.08966161150915042,
-          "pitch": 0.16281546970123983,
-          "rotation": 0,
-          "target": "7-estancia"
-        },
-        {
           "yaw": 1.1598310892261843,
           "pitch": 0.05485568043513567,
           "rotation": 0,
           "target": "4-terraza"
+        },
+        {
+          "yaw": 0.08966161150915042,
+          "pitch": 0.16281546970123983,
+          "rotation": 0,
+          "target": "7-estancia"
         },
         {
           "yaw": 2.0991711249253395,
