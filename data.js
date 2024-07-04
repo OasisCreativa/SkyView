@@ -149,16 +149,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.1598310892261843,
-          "pitch": 0.05485568043513567,
-          "rotation": 0,
-          "target": "4-terraza"
-        },
-        {
           "yaw": 0.08966161150915042,
           "pitch": 0.16281546970123983,
           "rotation": 0,
           "target": "7-estancia"
+        },
+        {
+          "yaw": 1.1598310892261843,
+          "pitch": 0.05485568043513567,
+          "rotation": 0,
+          "target": "4-terraza"
         },
         {
           "yaw": 2.0991711249253395,
@@ -387,7 +387,7 @@ var APP_DATA = {
           "target": "2-comedor"
         },
         {
-         "yaw": 2.0768528988056625,
+          "yaw": 2.0768528988056625,
           "pitch": 0.15338254800377982,
           "rotation": 0,
           "target": "4-terraza"
