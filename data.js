@@ -366,7 +366,7 @@ var APP_DATA = {
           "yaw": 3.066222822498803,
           "pitch": 0.15006598887577383,
           "rotation": 0,
-          "target": "4-terraza"
+          "target": "7-estancia"
         },
         {
           "yaw": -0.556720884329108,
@@ -387,10 +387,10 @@ var APP_DATA = {
           "target": "2-comedor"
         },
         {
-          "yaw": -1.623016463720596,
-          "pitch": 0.07172628770850409,
+         "yaw": 2.0768528988056625,
+          "pitch": 0.15338254800377982,
           "rotation": 0,
-          "target": "1-estancia"
+          "target": "4-terraza"
         }
       ],
       "infoHotspots": [
