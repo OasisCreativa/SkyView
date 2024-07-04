@@ -362,12 +362,7 @@ var APP_DATA = {
           "rotation": 0,
           "target": "0-vestivulo"
         },
-        {
-          "yaw": 3.066222822498803,
-          "pitch": 0.15006598887577383,
-          "rotation": 0,
-          "target": "4-terraza"
-        },
+        //COMENTARIO
         {
           "yaw": -0.556720884329108,
           "pitch": 0.10111663120957282,
