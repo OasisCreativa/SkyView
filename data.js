@@ -366,7 +366,7 @@ var APP_DATA = {
           "yaw": 3.066222822498803,
           "pitch": 0.15006598887577383,
           "rotation": 0,
-          "target": "7-estancia"
+          "target": "4-terraza"
         },
         {
           "yaw": -0.556720884329108,
