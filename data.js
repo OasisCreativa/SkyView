@@ -114,7 +114,7 @@ var APP_DATA = {
           "yaw": -2.3719611803912404,
           "pitch": 0.10922143095196901,
           "rotation": 0,
-          "target": "0-vestivulo"
+          "target": "0-vestibulo"
         }
       ],
       "infoHotspots": []
