@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-vestivulo",
-      "name": "Vestivulo",
+      "id": "0-Vestíbulo",
+      "name": "Vestíbulo",
       "levels": [
         {
           "tileSize": 256,
@@ -176,7 +176,7 @@ var APP_DATA = {
           "yaw": -0.48096387477089664,
           "pitch": 0.1581295650807366,
           "rotation": 0,
-          "target": "0-vestivulo"
+          "target": "0-vestíbulo"
         }
       ],
       "infoHotspots": []
@@ -310,7 +310,7 @@ var APP_DATA = {
           "yaw": 0.9092717848042131,
           "pitch": 0.04828091975870308,
           "rotation": 0,
-          "target": "0-vestivulo"
+          "target": "0-vestíbulo"
         },
         {
           "yaw": 0.7013035454361614,
@@ -360,7 +360,7 @@ var APP_DATA = {
           "yaw": 2.2042622066346507,
           "pitch": 0.26888422509060206,
           "rotation": 0,
-          "target": "0-vestivulo"
+          "target": "0-vestíbulo"
         },
         //COMENTARIO
         {
@@ -436,7 +436,7 @@ var APP_DATA = {
           "yaw": 0.7800064375578035,
           "pitch": 0.06686498387327688,
           "rotation": 0,
-          "target": "0-vestivulo"
+          "target": "0-vestíbulo"
         },
         {
           "yaw": -0.055044999485977186,
@@ -1572,7 +1572,7 @@ var APP_DATA = {
           "yaw": 0.4052255515996386,
           "pitch": 0.19871022242121938,
           "rotation": 0,
-          "target": "0-vestivulo"
+          "target": "0-vestíbulo"
         }
       ],
       "infoHotspots": []
@@ -1622,7 +1622,7 @@ var APP_DATA = {
           "yaw": 0.6163736250140168,
           "pitch": 0.3450914427757503,
           "rotation": 0,
-          "target": "0-vestivulo"
+          "target": "0-vestíbulo"
         },
         {
           "yaw": -0.42221987335115685,
