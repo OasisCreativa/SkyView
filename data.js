@@ -1,7 +1,7 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-Vestíbulo",
+      "id": "0-vestíbulo",
       "name": "Vestíbulo",
       "levels": [
         {
@@ -114,7 +114,7 @@ var APP_DATA = {
           "yaw": -2.3719611803912404,
           "pitch": 0.10922143095196901,
           "rotation": 0,
-          "target": "0-vestibulo"
+          "target": "0-vestíbulo"
         }
       ],
       "infoHotspots": []
